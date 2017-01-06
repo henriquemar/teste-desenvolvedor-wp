@@ -1,0 +1,14 @@
+# track this file .gitignore (i.e. do NOT ignore it)
+!.gitignore
+
+# ignore OS generated files
+ehthumbs.db
+Thumbs.db
+.DS_Store
+
+# ignore editor files
+*.sublime-project
+*.sublime-workspace
+
+# ignore log files
+*.log
