@@ -1,8 +1,8 @@
-# Teste para candidatos à vaga de Desenvolvedor Front-end
+# Teste para candidatos à vaga de Desenvolvedor
 
 ### Instruções
 
-1. Criar o HTML responsivo com base no layout fornecido. Todo o material necessário está na pasta "layouts".
+1. Criar o HTML responsivo e integrar com o Wordpress com base no layout fornecido. Todo o material necessário está na pasta "layouts".
 
 2. Nós queremos avaliar o seu nível de conhecimento em desenvolvimento responsivo usando HTML5, CSS3, Javascript e grids. Caso queira, utilize pré-processadores (Less ou SASS, esse último é o nosso favorito).
 
@@ -21,6 +21,6 @@
 * Paleta de cores usadas no layout: https://color.adobe.com/pt/teste-front-end-color-theme-9053440/
 * Mussum Ipsum (gerador de lorem ipsum do Mussum): http://mussumipsum.com/
 
-Ao terminar o teste, suba para um repositório GIT público e envie o link para minhavaga@alias.com.br
+Ao terminar o teste, suba para um repositório GIT público e envie o link para alexandre@alias.com.br
 
 **Boa sorte!**
