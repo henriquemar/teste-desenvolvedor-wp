@@ -1,0 +1,7 @@
+Os arquivos do site estão em http://wordpress.bhcommerce.com.br/wordpress_henrique.zip
+aí para ver o site na internet mesmo: http://wordpress.bhcommerce.com.br/
+o admin: http://wordpress.bhcommerce.com.br/wp_admin 
+Login: henrique
+Senha: 123456
+Aí existe um arquivo chamado http://wordpress.bhcommerce.com.br/wordpress_henrique.sql. Nele tem a base de dados.
+Veja aí se agrada.
